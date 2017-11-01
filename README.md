@@ -1,3 +1,9 @@
+# Changes
+
+Add plugins which will be installed( Initial setup wizard and some usefull plugins) in plugins.txt
+
+To skip running setup wizard, add initial java parameter -Djenkins.install.runSetupWizard=false to jenkins.sh
+
 # Official Jenkins Docker image
 
 The Jenkins Continuous Integration and Delivery server.
